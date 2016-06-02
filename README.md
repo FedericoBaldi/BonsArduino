@@ -17,5 +17,5 @@ I used Arduino and some cheap sensors.
 ### Preparation
 - You just need to download dht library...
 - You have to do the wiring on the BreadBoard by connect Arduino and the various sensors. I let an image about wiring.
-- You have to make a easy website that can handle your data. Mine is hosted free by altervista.com
+- You have to make an easy website that can handle your data. Mine is hosted free by altervista.com
 
