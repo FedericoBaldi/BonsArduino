@@ -10,11 +10,12 @@ I used Arduino and some cheap sensors.
 - Temperature and Umidity Sensor AM2302 DHT22
 - Brightness Sensor, a normal fotodiod
 - Soil moisture Sensor
-- For Power Autonomy I used a powerbank ~12000mAh
+- For power autonomy I used a powerbank ~12000mAh
 - BreadBoard
-- Obviusly Wires
+- Obviusly wires, jumpers
 
 ### Preparation
 - You just need to download dht library...
-- I let an image about wiring.
+- You have to do the wiring on the BreadBoard by connect Arduino and the various sensors. I let an image about wiring.
+- You have to make a website that can handle your data. Mine is hosted free by altervista.com
 
