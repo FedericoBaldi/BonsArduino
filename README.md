@@ -13,6 +13,7 @@ I used Arduino and some cheap sensors.
 - For Power Autonomy I used a powerbank ~12000mAh
 - BreadBoard
 - Obviusly Wires
+
 ### Preparation
 - You just need to download dht library...
 - I let an image about wiring.
