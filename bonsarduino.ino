@@ -59,7 +59,7 @@ void loop()
   delay(200);
   
   Serial.println("");
-  digitalWrite(13, HIGH);                           // turn the LED to on
+  digitalWrite(13, HIGH);                           // turn the LED on
   delay(2000);              
   digitalWrite(13, LOW);
   delay(8000);
