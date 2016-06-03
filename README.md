@@ -13,9 +13,10 @@ I used Arduino and some cheap sensors.
 - For power autonomy I used a powerbank ~12000mAh
 - BreadBoard
 - Obviusly wires, jumpers
+- An Access Point where to connect
 
-### Preparation
-- You just need to download dht library...
+### What to do
+- You just need to download dht library and include it in Arduino libray folder.
 - You have to do the wiring on the BreadBoard by connect Arduino and the various sensors. I let an image about wiring.
 - You have to make an easy website that can handle your data. Mine is hosted free by altervista.com
 
