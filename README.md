@@ -21,7 +21,7 @@ I used Arduino and some cheap sensors.
 - You have to make an easy website that can handle your data. Mine is hosted free by altervista.com
 
 ### The Code
-You can find all files in the project.
+-You can find all files in the project.
 
 I hope you will enjoy.
 
