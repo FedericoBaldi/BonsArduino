@@ -15,11 +15,11 @@ Hi everyone I just want to share a little project that I've made. I wanted to mo
 
 ### What to do
 - You just need to download dht library and include it in Arduino library folder.
-- You have to do the wiring on the BreadBoard by connect Arduino and the various sensors. I will let an image about wiring soon.
+- You have to do the wiring on the BreadBoard by connect Arduino and the various sensors. I will put an image about wiring soon.
 - You have to make an easy website that can handle your data. Mine is hosted free by altervista.com
 
 ### The Code
-- You can find all files in the project folder.
+- You can find all the files in the project folder.
 
 I hope you will enjoy.
 
