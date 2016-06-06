@@ -1,6 +1,6 @@
 # BonsArduino
 
-Hi everyone I just want to share a little project that I've made. <br>I wanted to monitor my bonsai tree and see data on a website. <br>I used Arduino and some cheap sensors.
+Hi everyone I just want to share a little project that I've made. I wanted to monitor my bonsai tree and see data on a website. <br>I used an Arduino and some cheap sensors.
 
 ### Materials
 - Arduino Uno
